@@ -78,7 +78,7 @@ No need for a router here. We can fit all we need into one page with some proper
 ```
 index.js
   - App.js
-    - Friends.js
+    - FriendsComponent.js
     - CreateFriendForm.js
     - UpdateFriendForm.js
 ```
